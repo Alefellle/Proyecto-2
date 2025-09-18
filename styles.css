@@ -6,3 +6,29 @@ header{
     margin: 0px;
     background-color: rgb(206, 30, 30);
 }
+
+.Iniciar{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    margin: auto; 
+    border-radius: 30px;
+}
+.iniciar{
+    text-align: center;
+    padding: 10px;
+}
+form{
+    margin: 20px;
+}
+input{
+    width: 200px;
+    padding: 3px;
+}
+button{
+    margin-left: 75px;
+    margin-top: 10px;
+    height: 30px;
+    background-color: black; 
+    color: aqua;
+}
